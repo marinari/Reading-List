@@ -1,9 +1,9 @@
-##Completed:
+# Completed:
   *You Don't Know JS: Up & Going
   *Apprenticeship Patterns
   
-##Currently Reading: 
+# Currently Reading: 
   *You Don't Know JS: Scopes & Closures
   
-##Queue: 
+# Queue: 
   *Javascript: The Good Parts
